@@ -10,7 +10,7 @@
 
 [Eureca](https://app.eureca.me/) Estágios.
 
-[Universia](https://www.universia.net/br/) Estágios universitários.
+[Universia](https://www.universia.net/br/) Estágios universitários de diversas áreas.
 
 [Bekas Santander]() Bolsas de estudos e vagas para o banco.
 
