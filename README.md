@@ -1,5 +1,7 @@
 # jobs Drops 
 
+[Estagio em Desenvolvimento de Software](https://app.eureca.me/vaga/4268) - Estágio - Thomson Reuters
+
 <details>  
  <summary> Sites </summary>
  
